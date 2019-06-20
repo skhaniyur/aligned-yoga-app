@@ -1,0 +1,5 @@
+aligned.db
+code/aligned/models/
+.DS_Store
+__pycache__
+code/aligned/app/static/videos
