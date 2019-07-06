@@ -18,10 +18,10 @@ Aligned was selected by USF faculty as one of the top apps of 2019 and, as a res
  - Feedback is provided to the user on how they can safely improve their pose.
 
 ## Important Links
- - [Final Presentation Slides to VCs](https://github.com/ecalkins/aligned_yoga_app/blob/master/Aligned_VC_Presentation_Deck.pdf)
- - [Flask routes](https://github.com/ecalkins/aligned_yoga_app/blob/master/code/aligned/app/routes.py)
- - [Video processing script](https://github.com/ecalkins/aligned_yoga_app/blob/master/code/aligned/process_openpose_user.py)
- - [Modeling](https://github.com/ecalkins/aligned_yoga_app/blob/master/code/aligned/modeling.py)
+ - [Final Presentation Slides to VCs](https://github.com/skhaniyur/aligned-yoga-app/blob/master/Aligned_VC_Presentation_Deck.pdf)
+ - [Flask routes](https://github.com/skhaniyur/aligned-yoga-app/blob/master/code/aligned/app/routes.py)
+ - [Video processing script](https://github.com/skhaniyur/aligned-yoga-app/blob/master/code/aligned/process_openpose_user.py)
+ - [Modeling](https://github.com/skhaniyur/aligned-yoga-app/blob/master/code/aligned/modeling.py)
  - [OpenPose research paper](https://arxiv.org/pdf/1611.08050.pdf)
  
  ## Contributors
